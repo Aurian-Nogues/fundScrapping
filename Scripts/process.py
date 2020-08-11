@@ -1,20 +1,23 @@
-import json
 import pandas as pd
-import re
 import os
+import re
+import json
+from pathlib import Path
 from datetime import datetime
 
+############ define functions ##############
+
 def parser13F(folder):
-    #will scan a fund folder and return all parsed info from 13-f
+    #will scan a fund folder and return all parsed info from 13-f in a dataframe
     lst_13F = list()
     cols_names=['sub_rpt_dt','cusip','s_name','value','nshares','sub_rpttyp','sub_fil_dt']
     tab_13F = pd.DataFrame(columns=cols_names)
     n=0
-    with os.scandir(path) as entries:
+    with os.scandir(folder) as entries:
         for file in entries:
             fh = open(file)
             Fname=file.name
-            print(Fname)
+            #print(Fname)
             n=0
             i0=0
             i1=1e6
@@ -30,7 +33,7 @@ def parser13F(folder):
                     sub_rpttyp = str(re.sub('\n','',re.sub('\t','',line.split(sep=":")[1])))
                 if line.find('FILENAME')>-1:
                     report_CAT = str(re.sub('\n','',line.split(sep=">")[1].split(sep="<")[0]))[-3:]
-                    print(Fname+' > input typ:'+report_CAT)
+                    #print(Fname+' > input typ:'+report_CAT)
                 if len(line)<5 or report_CAT is None:
                     continue
                 if report_CAT=='xml':      
@@ -68,7 +71,8 @@ def parser13F(folder):
                             else:
                                 line_words2.append(line[lC[i-1]:lC[i]].strip())
                         if line_words2==['No Reportable Holdings']:
-                            print(Fname+': No Reportable Holdings!!!!')
+
+                            #print(Fname+': No Reportable Holdings!!!!')
                             continue
                         else:
                             s_name = line_words2[0]
@@ -80,3 +84,25 @@ def parser13F(folder):
                             infoT2 = pd.DataFrame(infoT,columns=cols_names)
                             tab_13F = tab_13F.append(infoT2,ignore_index=True)
     return(tab_13F)
+
+
+############ process stuff #############
+
+#get list of all funds
+fundsFolderPath = os.path.abspath(os.path.join('..','Data'))
+fundsList = os.listdir(fundsFolderPath)
+fundsList.remove('.gitignore') #remove giti
+
+#for each fund parse info and update fund csv
+for fund in fundsList:
+    #get fund id which is folder name in sec_edgar_filings
+    tempPath = os.path.abspath(os.path.join('..','Data',fund,'sec_edgar_filings'))
+    fundId = os.listdir(tempPath)[0]
+    #get list of all available filings files for that fund
+    fundPath = os.path.abspath(os.path.join('..','Data',fund,'sec_edgar_filings',fundId,'13F-HR'))
+    fundHoldingsDf = parser13F(fundPath) #returns a dataframe with fund holdings parsed from all files
+    #overwrite csv with new info
+    fundHoldingsFilePath = os.path.abspath(os.path.join('..','Data',fund,fund +'.csv'))
+    fundHoldingsDf.to_csv(fundHoldingsFilePath, mode = 'w+')
+
+

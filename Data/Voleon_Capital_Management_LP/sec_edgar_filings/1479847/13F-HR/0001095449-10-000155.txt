@@ -1,0 +1,366 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OvTLCW6tHioide8iipyfmjsI05NSQBNE2KurZIzk8ffMRJ5jeYY9pz1G7RZfTpqh
+ sFKZxm4CLL4oPbwpkXZfjw==
+
+<SEC-DOCUMENT>0001095449-10-000155.txt : 20101104
+<SEC-HEADER>0001095449-10-000155.hdr.sgml : 20101104
+<ACCEPTANCE-DATETIME>20101103192132
+ACCESSION NUMBER:		0001095449-10-000155
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20100930
+FILED AS OF DATE:		20101104
+DATE AS OF CHANGE:		20101103
+EFFECTIVENESS DATE:		20101104
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Voleon Capital Management LP
+		CENTRAL INDEX KEY:			0001479847
+		IRS NUMBER:				262569235
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-13764
+		FILM NUMBER:		101162753
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2131 UNIVERSITY AVENUE
+		STREET 2:		SUITE 324
+		CITY:			BERKELEY
+		STATE:			CA
+		ZIP:			94704
+		BUSINESS PHONE:		(510) 704-9870
+
+	MAIL ADDRESS:	
+		STREET 1:		2131 UNIVERSITY AVENUE
+		STREET 2:		SUITE 324
+		CITY:			BERKELEY
+		STATE:			CA
+		ZIP:			94704
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>f13f2010-09.txt
+<DESCRIPTION>FORM 13F FOR JUNE 30, 2010
+<TEXT>
+                                  UNITED STATES
+                     SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: September 30, 2010
+
+Check here if Amendment |_|; Amendment Number:
+
+This Amendment (Check only one.): |_| is a restatement.
+                                  |_| adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Voleon Capital Management LP
+Address: 2131 University Avenue, Suite 324
+         Berkeley, CA 94704
+
+
+13F File Number:
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:     HEATHER A. BRIEN
+Title:    Chief Operating Officer
+Phone:    (510) 704-9870
+
+Signature, Place, and Date of Signing:
+
+/s/ HEATHER A. BRIEN          Berkeley, CA                Date November 1, 2010
+- -------------------------------------------------------------------------------
+
+Report Type (Check only one.):
+
+|X|   13F HOLDINGS REPORT.
+
+|_|   13F NOTICE.
+
+|_|   13F COMBINATION REPORT.
+
+List of Other Managers Reporting for this Manager:
+
+- --------------------------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+
+I AM SIGNING THIS REPORT AS REQUIRED BY THE SECURITIES EXCHANGE ACT OF 1934.
+
+
+<PAGE>
+
+
+                          FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers: 0
+
+Form 13F Information Table Entry Total:  204
+
+Form 13F Information Table Value Total:   $61,573,000
+
+
+
+List of Other Included Managers:
+
+
+
+ No.  13F File Number     Name
+
+
+
+NONE
+
+
+
+<PAGE>
+
+                         FORM 13F INFORMATION TABLE
+<TABLE>
+<CAPTION>
+
+COLUMN 1                     COLUMN 2  COLUMN 3  COLUMN 4 COLUMN 5               COLUMN 6       COLUMN  7 COLUMN 8
+- ---------------------------- --------- --------- -------- ---------------------- -------------- --------- ---------------------
+                                                                                                          VOTING AUTHORITY
+                             TITLE OF            VALUE    SH OR PRN  SH / PUT /  INVESTMENT     OTHER     ---------------------
+NAME OF ISSUER                CLASS    CUSIP     (X$1000)    AMOUNT   PRN  CALL  DISCRETION     MANAGERS  SOLE       SHARED   NONE
+- ---------------------------- --------- --------- -------- ----------- ---- ----- -------------- --------- ------- ----------- ----
+<S>                          <C>       <C>        <C>     <C>         <C>  <C>   <C>            <C>       <C>     <C>         <C>
+ABM INDUSTRIES INC           Common    000957100      205       9,500 SH         SOLE           *           9,500
+ADVANCED MICRO DEVICES       Common    007903107      101      14,200 SH         SOLE           *          14,200
+AGCO CORP                    Common    001084102      394      10,100 SH         SOLE           *          10,100
+AIRCASTLE LTD                Common    G0129K104      260      30,700 SH         SOLE           *          30,700
+AMERICAN TOWER CORP          Common    029912201      272       5,300 SH         SOLE           *           5,300
+AMERIGROUP CORP              Common    03073T102      238       5,600 SH         SOLE           *           5,600
+AMYLIN PHARMACEUTICALS INC   Common    032346108      223      10,700 SH         SOLE           *          10,700
+ANSYS INC                    Common    03662Q105      237       5,600 SH         SOLE           *           5,600
+APACHE CORP                  Common    037411105      528       5,400 SH         SOLE           *           5,400
+APPLE INC                    Common    037833100      653       2,300 SH         SOLE           *           2,300
+APPLIED INDUSTRIAL TECH INC  Common    03820C105      376      12,300 SH         SOLE           *          12,300
+APPLIED MATERIALS INC        Common    038222105      453      38,800 SH         SOLE           *          38,800
+APPLIED MICRO CIRCUITS CORP  Common    03822W406      239      23,900 SH         SOLE           *          23,900
+ARCHER-DANIELS-MIDLAND CO    Common    039483102      922      28,900 SH         SOLE           *          28,900
+ATLAS AIR WORLDWIDE HLDG INC Common    049164205      216       4,300 SH         SOLE           *           4,300
+AUTODESK INC                 Common    052769106      320      10,000 SH         SOLE           *          10,000
+AUTOMATIC DATA PROCESSING    Common    053015103      403       9,600 SH         SOLE           *           9,600
+AVERY DENNISON CORP          Common    053611109      304       8,200 SH         SOLE           *           8,200
+BALL CORP                    Common    058498106      341       5,800 SH         SOLE           *           5,800
+BAT-BRITISH AMER TOBACCO PLC Common    110448107      284       3,800 SH         SOLE           *           3,800
+BED BATH & BEYOND INC        Common    075896100      412       9,500 SH         SOLE           *           9,500
+BEST BUY CO INC              Common    086516101      674      16,500 SH         SOLE           *          16,500
+BIG LOTS INC                 Common    089302103      276       8,300 SH         SOLE           *           8,300
+BIO-RAD LABORATORIES INC     Common    090572207      235       2,600 SH         SOLE           *           2,600
+BIOMARIN PHARMACEUTICAL INC  Common    09061G101      329      14,700 SH         SOLE           *          14,700
+BOISE INC                    Common    09746Y105      112      17,300 SH         SOLE           *          17,300
+BOYD GAMING CORP             Common    103304101       99      13,600 SH         SOLE           *          13,600
+BRADY CORP                   Common    104674106      470      16,100 SH         SOLE           *          16,100
+BRIGGS & STRATTON            Common    109043109      295      15,500 SH         SOLE           *          15,500
+BROADRIDGE FINANCIAL SOLUTNS Common    11133T103      334      14,600 SH         SOLE           *          14,600
+BUCYRUS INTERNATIONAL INC    Common    118759109      333       4,800 SH         SOLE           *           4,800
+BUNGE LTD                    Common    G16962105      248       4,200 SH         SOLE           *           4,200
+CACI INTL INC  -CL A         Common    127190304      634      14,000 SH         SOLE           *          14,000
+CADENCE DESIGN SYSTEMS INC   Common    127387108       87      11,400 SH         SOLE           *          11,400
+CAMPBELL SOUP CO             Common    134429109      450      12,600 SH         SOLE           *          12,600
+CANADIAN NATIONAL RAILWAY CO Common    136375102      269       4,200 SH         SOLE           *           4,200
+CARNIVAL CORP/PLC (USA)      Common    143658300      496      13,000 SH         SOLE           *          13,000
+CELESTICA INC                Common    15101Q108      116      13,800 SH         SOLE           *          13,800
+CHEVRON CORP                 Common    166764100      300       3,700 SH         SOLE           *           3,700
+CHINA MOBILE LTD             Common    16941M109      700      13,700 SH         SOLE           *          13,700
+CHINA TELECOM CORP LTD       Common    169426103      230       4,200 SH         SOLE           *           4,200
+CIGNA CORP                   Common    125509109      322       9,000 SH         SOLE           *           9,000
+CINEMARK HOLDINGS INC        Common    17243V102      233      14,500 SH         SOLE           *          14,500
+CISCO SYSTEMS INC            Common    17275R102      416      19,000 SH         SOLE           *          19,000
+CLEAN HARBORS INC            Common    184496107      230       3,400 SH         SOLE           *           3,400
+CNH GLOBAL NV                Common    N20935206      205       5,600 SH         SOLE           *           5,600
+COACH INC                    Common    189754104      391       9,100 SH         SOLE           *           9,100
+CONTINENTAL RESOURCES INC    Common    212015101      204       4,400 SH         SOLE           *           4,400
+CONVERGYS CORP               Common    212485106      223      21,300 SH         SOLE           *          21,300
+CORNING INC                  Common    219350105      271      14,800 SH         SOLE           *          14,800
+CORPORATE EXECUTIVE BRD CO   Common    21988R102      271       8,600 SH         SOLE           *           8,600
+CSX CORP                     Common    126408103      282       5,100 SH         SOLE           *           5,100
+CUBIST PHARMACEUTICALS INC   Common    229678107      288      12,300 SH         SOLE           *          12,300
+CUMMINS INC                  Common    231021106      326       3,600 SH         SOLE           *           3,600
+DANAHER CORP                 Common    235851102      260       6,400 SH         SOLE           *           6,400
+DARDEN RESTAURANTS INC       Common    237194105      432      10,100 SH         SOLE           *          10,100
+DECKERS OUTDOOR CORP         Common    243537107      230       4,600 SH         SOLE           *           4,600
+DEERE & CO                   Common    244199105      251       3,600 SH         SOLE           *           3,600
+DEL MONTE FOODS CO           Common    24522P103      156      11,900 SH         SOLE           *          11,900
+DELUXE CORP                  Common    248019101      201      10,500 SH         SOLE           *          10,500
+DICKS SPORTING GOODS INC     Common    253393102      233       8,300 SH         SOLE           *           8,300
+DISNEY (WALT) CO             Common    254687106      728      22,000 SH         SOLE           *          22,000
+DOLBY LABORATORIES INC       Common    25659T107      278       4,900 SH         SOLE           *           4,900
+DOMINION RESOURCES INC       Common    25746U109      231       5,300 SH         SOLE           *           5,300
+DOMTAR CORP                  Common    257559203      297       4,600 SH         SOLE           *           4,600
+DR PEPPER SNAPPLE GROUP INC  Common    26138E109      249       7,000 SH         SOLE           *           7,000
+DRESSER-RAND GROUP INC       Common    261608103      310       8,400 SH         SOLE           *           8,400
+DST SYSTEMS INC              Common    233326107      202       4,500 SH         SOLE           *           4,500
+EMC CORP/MA                  Common    268648102      317      15,600 SH         SOLE           *          15,600
+EMULEX CORP                  Common    292475209      153      14,700 SH         SOLE           *          14,700
+ENERGIZER HOLDINGS INC       Common    29266R108      477       7,100 SH         SOLE           *           7,100
+ENTERGY CORP                 Common    29364G103      207       2,700 SH         SOLE           *           2,700
+EXELON CORP                  Common    30161N101      204       4,800 SH         SOLE           *           4,800
+EXXON MOBIL CORP             Common    30231G102      303       4,900 SH         SOLE           *           4,900
+FACTSET RESEARCH SYSTEMS INC Common    303075105      333       4,100 SH         SOLE           *           4,100
+FAIRCHILD SEMICONDUCTOR INTL Common    303726103      133      14,100 SH         SOLE           *          14,100
+FAMILY DOLLAR STORES         Common    307000109      318       7,200 SH         SOLE           *           7,200
+FINISH LINE INC  -CL A       Common    317923100      166      11,900 SH         SOLE           *          11,900
+FIRST SOLAR INC              Common    336433107      221       1,500 SH         SOLE           *           1,500
+FLIR SYSTEMS INC             Common    302445101      427      16,600 SH         SOLE           *          16,600
+FMC CORP                     Common    302491303      534       7,800 SH         SOLE           *           7,800
+FOOT LOCKER INC              Common    344849104      192      13,200 SH         SOLE           *          13,200
+GANNETT CO                   Common    364730101      171      14,000 SH         SOLE           *          14,000
+GEN-PROBE INC                Common    36866T103      296       6,100 SH         SOLE           *           6,100
+GILDAN ACTIVEWEAR INC        Common    375916103      298      10,600 SH         SOLE           *          10,600
+GOL LINHAS AEREAS INTELIGENT Common    38045R107      244      15,500 SH         SOLE           *          15,500
+GOLD FIELDS LTD              Common    38059T106      602      39,400 SH         SOLE           *          39,400
+HARMONY GOLD MINING CO LTD   Common    413216300      211      18,700 SH         SOLE           *          18,700
+HAWAIIAN ELECTRIC INDS       Common    419870100      223       9,900 SH         SOLE           *           9,900
+HEALTH MANAGEMENT ASSOC      Common    421933102      153      20,000 SH         SOLE           *          20,000
+HEALTHSOUTH CORP             Common    421924309      263      13,700 SH         SOLE           *          13,700
+HEARTLAND EXPRESS INC        Common    422347104      192      12,900 SH         SOLE           *          12,900
+HEINZ (H J) CO               Common    423074103      251       5,300 SH         SOLE           *           5,300
+HELMERICH & PAYNE            Common    423452101      259       6,400 SH         SOLE           *           6,400
+HESS CORP                    Common    42809H107      219       3,700 SH         SOLE           *           3,700
+HEWLETT-PACKARD CO           Common    428236103      416       9,900 SH         SOLE           *           9,900
+HORMEL FOODS CORP            Common    440452100      589      13,200 SH         SOLE           *          13,200
+HUMANA INC                   Common    444859102      397       7,900 SH         SOLE           *           7,900
+ILLUMINA INC                 Common    452327109      226       4,600 SH         SOLE           *           4,600
+IMMUCOR INC                  Common    452526106      228      11,500 SH         SOLE           *          11,500
+INTEL CORP                   Common    458140100      597      31,100 SH         SOLE           *          31,100
+INTERPUBLIC GROUP OF COS     Common    460690100      192      19,100 SH         SOLE           *          19,100
+INTL RECTIFIER CORP          Common    460254105      380      18,000 SH         SOLE           *          18,000
+INTUITIVE SURGICAL INC       Common    46120E602      539       1,900 SH         SOLE           *           1,900
+ITT EDUCATIONAL SERVICES INC Common    45068B109      211       3,000 SH         SOLE           *           3,000
+JOS A BANK CLOTHIERS INC     Common    480838101      383       9,000 SH         SOLE           *           9,000
+KANSAS CITY SOUTHERN         Common    485170302      531      14,200 SH         SOLE           *          14,200
+KB HOME                      Common    48666K109      202      17,800 SH         SOLE           *          17,800
+KBR INC                      Common    48242W106      394      16,000 SH         SOLE           *          16,000
+KINDRED HEALTHCARE INC       Common    494580103      275      21,100 SH         SOLE           *          21,100
+KROGER CO                    Common    501044101      331      15,300 SH         SOLE           *          15,300
+KULICKE & SOFFA INDUSTRIES   Common    501242101       91      14,676 SH         SOLE           *          14,676
+LAM RESEARCH CORP            Common    512807108      385       9,200 SH         SOLE           *           9,200
+LAWSON SOFTWARE INC          Common    52078P102      146      17,200 SH         SOLE           *          17,200
+LIFE TECHNOLOGIES CORP       Common    53217V109      285       6,100 SH         SOLE           *           6,100
+LOCKHEED MARTIN CORP         Common    539830109      242       3,400 SH         SOLE           *           3,400
+LSI CORP                     Common    502161102       97      21,400 SH         SOLE           *          21,400
+MARRIOTT INTL INC            Common    571903202      613      17,100 SH         SOLE           *          17,100
+MARTIN MARIETTA MATERIALS    Common    573284106      254       3,300 SH         SOLE           *           3,300
+MARVELL TECHNOLOGY GROUP LTD Common    G5876H105      224      12,800 SH         SOLE           *          12,800
+MAXIMUS INC                  Common    577933104      419       6,800 SH         SOLE           *           6,800
+MEDTRONIC INC                Common    585055106      272       8,100 SH         SOLE           *           8,100
+MENS WEARHOUSE INC           Common    587118100      333      14,000 SH         SOLE           *          14,000
+MEREDITH CORP                Common    589433101      666      20,000 SH         SOLE           *          20,000
+METTLER-TOLEDO INTL INC      Common    592688105      249       2,000 SH         SOLE           *           2,000
+MGM RESORTS INTERNATIONAL    Common    552953101      113      10,000 SH         SOLE           *          10,000
+MICRON TECHNOLOGY INC        Common    595112103      135      18,700 SH         SOLE           *          18,700
+MILLICOM INTL CELLULAR SA    Common    L6388F110      317       3,300 SH         SOLE           *           3,300
+MOLINA HEALTHCARE INC        Common    60855R100      246       9,100 SH         SOLE           *           9,100
+MONSTER WORLDWIDE INC        Common    611742107      178      13,700 SH         SOLE           *          13,700
+MOSAIC CO                    Common    61945A107      259       4,400 SH         SOLE           *           4,400
+MYRIAD GENETICS INC          Common    62855J104      271      16,500 SH         SOLE           *          16,500
+NABORS INDUSTRIES LTD        Common    G6359F103      213      11,800 SH         SOLE           *          11,800
+NCR CORP                     Common    62886E108      184      13,500 SH         SOLE           *          13,500
+NEWS CORP                    Common    65248E104      246      18,800 SH         SOLE           *          18,800
+NII HOLDINGS INC             Common    62913F201      226       5,500 SH         SOLE           *           5,500
+NIKE INC                     Common    654106103      569       7,100 SH         SOLE           *           7,100
+NOVELLUS SYSTEMS INC         Common    670008101      234       8,800 SH         SOLE           *           8,800
+NOVO NORDISK A/S             Common    670100205      207       2,100 SH         SOLE           *           2,100
+NV ENERGY INC                Common    67073Y106      203      15,400 SH         SOLE           *          15,400
+NVR INC                      Common    62944T105      259         400 SH         SOLE           *             400
+OFFICEMAX INC                Common    67622P101      166      12,700 SH         SOLE           *          12,700
+OM GROUP INC                 Common    670872100      256       8,500 SH         SOLE           *           8,500
+OMNICOM GROUP                Common    681919106      261       6,600 SH         SOLE           *           6,600
+ON SEMICONDUCTOR CORP        Common    682189105      205      28,400 SH         SOLE           *          28,400
+ONEOK INC                    Common    682680103      270       6,000 SH         SOLE           *           6,000
+OPEN TEXT CORP               Common    683715106      310       6,600 SH         SOLE           *           6,600
+OSHKOSH CORP                 Common    688239201      341      12,400 SH         SOLE           *          12,400
+PACCAR INC                   Common    693718108      226       4,700 SH         SOLE           *           4,700
+PANERA BREAD CO              Common    69840W108      266       3,000 SH         SOLE           *           3,000
+PARAMETRIC TECHNOLOGY CORP   Common    699173209      258      13,200 SH         SOLE           *          13,200
+PARKER-HANNIFIN CORP         Common    701094104      280       4,000 SH         SOLE           *           4,000
+PIER 1 IMPORTS INC/DE        Common    720279108      101      12,300 SH         SOLE           *          12,300
+PMC-SIERRA INC               Common    69344F106      118      16,000 SH         SOLE           *          16,000
+PRECISION CASTPARTS CORP     Common    740189105      293       2,300 SH         SOLE           *           2,300
+PRIDE INTERNATIONAL INC      Common    74153Q102      212       7,200 SH         SOLE           *           7,200
+PUBLIC SERVICE ENTRP GRP INC Common    744573106      228       6,900 SH         SOLE           *           6,900
+PULTEGROUP INC               Common    745867101      122      13,900 SH         SOLE           *          13,900
+QIAGEN NV                    Common    N72482107      316      17,800 SH         SOLE           *          17,800
+RED HAT INC                  Common    756577102      262       6,400 SH         SOLE           *           6,400
+REGAL-BELOIT CORP            Common    758750103      288       4,900 SH         SOLE           *           4,900
+ROCKWELL COLLINS INC         Common    774341101      250       4,300 SH         SOLE           *           4,300
+ROGERS COMMUNICATIONS  -CL B Common    775109200      401      10,700 SH         SOLE           *          10,700
+ROSS STORES INC              Common    778296103      241       4,400 SH         SOLE           *           4,400
+SALESFORCE COM INC           Common    79466L302      380       3,400 SH         SOLE           *           3,400
+SANOFI-AVENTIS               Common    80105N105      396      11,900 SH         SOLE           *          11,900
+SCANA CORP                   Common    80589M102      218       5,400 SH         SOLE           *           5,400
+SCOTTS MIRACLE-GRO CO        Common    810186106      285       5,500 SH         SOLE           *           5,500
+SHIRE LTD                    Common    82481R106      316       4,700 SH         SOLE           *           4,700
+SMITH & NEPHEW PLC           Common    83175M205      250       5,500 SH         SOLE           *           5,500
+SMUCKER (JM) CO              Common    832696405      297       4,900 SH         SOLE           *           4,900
+STERICYCLE INC               Common    858912108      278       4,000 SH         SOLE           *           4,000
+SXC HEALTH SOLUTIONS CORP    Common    78505P100      379      10,400 SH         SOLE           *          10,400
+SYNAPTICS INC                Common    87157D109      391      13,900 SH         SOLE           *          13,900
+SYSCO CORP                   Common    871829107      337      11,800 SH         SOLE           *          11,800
+TAIWAN SEMICONDUCTOR MFG CO  Common    874039100      509      50,200 SH         SOLE           *          50,200
+TAKE-TWO INTERACTIVE SFTWR   Common    874054109      218      21,500 SH         SOLE           *          21,500
+TECHNE CORP                  Common    878377100      438       7,100 SH         SOLE           *           7,100
+TECO ENERGY INC              Common    872375100      364      21,000 SH         SOLE           *          21,000
+TELEPHONE & DATA SYSTEMS INC Common    879433100      315       9,600 SH         SOLE           *           9,600
+TELLABS INC                  Common    879664100      320      42,900 SH         SOLE           *          42,900
+TERADYNE INC                 Common    880770102      274      24,600 SH         SOLE           *          24,600
+TESSERA TECHNOLOGIES INC     Common    88164L100      187      10,100 SH         SOLE           *          10,100
+THOMAS & BETTS CORP          Common    884315102      279       6,800 SH         SOLE           *           6,800
+TUTOR PERINI CORP            Common    901109108      207      10,300 SH         SOLE           *          10,300
+TYCO INTERNATIONAL LTD       Common    H89128104      312       8,500 SH         SOLE           *           8,500
+TYSON FOODS INC  -CL A       Common    902494103      296      18,500 SH         SOLE           *          18,500
+UNDER ARMOUR INC             Common    904311107      221       4,900 SH         SOLE           *           4,900
+URBAN OUTFITTERS INC         Common    917047102      333      10,600 SH         SOLE           *          10,600
+URS CORP                     Common    903236107      547      14,400 SH         SOLE           *          14,400
+VEECO INSTRUMENTS INC        Common    922417100      265       7,600 SH         SOLE           *           7,600
+VERISK ANALYTICS INC         Common    92345Y106      633      22,600 SH         SOLE           *          22,600
+VMWARE INC -CL A             Common    928563402      255       3,000 SH         SOLE           *           3,000
+VONAGE HOLDINGS CORP         Common    92886T201       44      17,400 SH         SOLE           *          17,400
+WAL-MART STORES INC          Common    931142103      519       9,700 SH         SOLE           *           9,700
+WALGREEN CO                  Common    931422109      523      15,600 SH         SOLE           *          15,600
+WATSCO INC                   Common    942622200      251       4,500 SH         SOLE           *           4,500
+WATSON PHARMACEUTICALS INC   Common    942683103      241       5,700 SH         SOLE           *           5,700
+WEBSENSE INC                 Common    947684106      412      23,200 SH         SOLE           *          23,200
+WEIGHT WATCHERS INTL INC     Common    948626106      259       8,300 SH         SOLE           *           8,300
+WHOLE FOODS MARKET INC       Common    966837106      245       6,600 SH         SOLE           *           6,600
+WYNN RESORTS LTD             Common    983134107      312       3,600 SH         SOLE           *           3,600
+XEROX CORP                   Common    984121103      189      18,300 SH         SOLE           *          18,300
+ZIMMER HOLDINGS INC          Common    98956P102      225       4,300 SH         SOLE           *           4,300
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

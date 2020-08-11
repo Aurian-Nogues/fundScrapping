@@ -1,0 +1,220 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QMLi30HKTcUGSWGcHeL6BSxyJu5BtSShRz4DSa4+iEEzm1tETxx5JhJzHQNn++Vj
+ /0ducL0zU+HXCuwswi1tGg==
+
+<SEC-DOCUMENT>0001095449-11-000008.txt : 20110210
+<SEC-HEADER>0001095449-11-000008.hdr.sgml : 20110210
+<ACCEPTANCE-DATETIME>20110210144529
+ACCESSION NUMBER:		0001095449-11-000008
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20101231
+FILED AS OF DATE:		20110210
+DATE AS OF CHANGE:		20110210
+EFFECTIVENESS DATE:		20110210
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Voleon Capital Management LP
+		CENTRAL INDEX KEY:			0001479847
+		IRS NUMBER:				262569235
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-13764
+		FILM NUMBER:		11591785
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2131 UNIVERSITY AVENUE
+		STREET 2:		SUITE 324
+		CITY:			BERKELEY
+		STATE:			CA
+		ZIP:			94704
+		BUSINESS PHONE:		(510) 704-9870
+
+	MAIL ADDRESS:	
+		STREET 1:		2131 UNIVERSITY AVENUE
+		STREET 2:		SUITE 324
+		CITY:			BERKELEY
+		STATE:			CA
+		ZIP:			94704
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>f13f2010-12.txt
+<DESCRIPTION>FORM 13F FOR DECEMBER 31, 2010
+<TEXT>
+                                  UNITED STATES
+
+                     SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: December 31, 2010
+
+Check here if Amendment |_|; Amendment Number:
+
+This Amendment (Check only one.): |_| is a restatement.
+                                  |_| adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Voleon Capital Management LP
+Address: 2131 University Avenue, Suite 324
+         Berkeley, CA 94704
+
+
+13F File Number:
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:     HEATHER BRIEN
+Title:    Chief Operating Officer
+Phone:    (510) 704-9870
+
+Signature, Place, and Date of Signing:
+
+/s/ HEATHER BRIEN            Berkeley, CA                 Date January 26, 2010
+- -------------------------------------------------------------------------------
+
+Report Type (Check only one.):
+
+
+|X|   13F HOLDINGS REPORT.
+
+|_|   13F NOTICE.
+
+|_|   13F COMBINATION REPORT.
+
+
+List of Other Managers Reporting for this Manager:
+
+
+- -------------------------------------------------------------------------------
+
+- -------------------------------------------------------------------------------
+
+- ------------------------------------------------------------------------------
+
+I AM SIGNING THIS REPORT AS REQUIRED BY THE SECURITIES EXCHANGE ACT OF 1934.
+
+
+<PAGE>
+
+
+                          FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers: 0
+
+Form 13F Information Table Entry Total:  53
+
+Form 13F Information Table Value Total:   $11,792,000
+
+
+
+List of Other Included Managers:
+
+
+
+No.  13F File Number     Name
+
+
+
+
+NONE
+
+
+<PAGE>
+
+                          FORM 13F INFORMATION TABLE
+<TABLE>
+<CAPTION>
+
+COLUMN 1                     COLUMN 2  COLUMN 3  COLUMN 4 COLUMN 5               COLUMN 6       COLUMN  7 COLUMN 8
+- ---------------------------- --------- --------- -------- ---------------------- -------------- --------- ---------------------
+                                                                                                          VOTING AUTHORITY
+                             TITLE OF            VALUE    SH OR PRN  SH / PUT /  INVESTMENT     OTHER     ---------------------
+NAME OF ISSUER                CLASS    CUSIP     (X$1000)    AMOUNT   PRN  CALL  DISCRETION     MANAGERS  SOLE       SHARED   NONE
+- ---------------------------- --------- --------- -------- ----------- ---- ----- -------------- --------- ------- ----------- ----
+<S>                          <C>       <C>       <C>      <C>         <C>  <C>   <C>            <C>       <C>     <C>         <C>
+ADVANCED MICRO DEVICES       Common    007903107      108      13,200 SH         SOLE           *          13,200
+AECOM TECHNOLOGY CORP        Common    00766T100      288      10,300 SH         SOLE           *          10,300
+AMERISOURCEBERGEN CORP       Common    03073E105      215       6,300 SH         SOLE           *           6,300
+AMKOR TECHNOLOGY INC         Common    031652100       96      13,000 SH         SOLE           *          13,000
+APPLIED MATERIALS INC        Common    038222105      357      25,400 SH         SOLE           *          25,400
+AUTOZONE INC                 Common    053332102      273       1,000 SH         SOLE           *           1,000
+BALL CORP                    Common    058498106      340       5,000 SH         SOLE           *           5,000
+BAT-BRITISH AMER TOBACCO PLC Common    110448107      202       2,600 SH         SOLE           *           2,600
+BEACON ROOFING SUPPLY INC    Common    073685109      400      22,400 SH         SOLE           *          22,400
+BELO CORP  -SER A COM        Common    080555105       89      12,600 SH         SOLE           *          12,600
+BROCADE COMMUNICATIONS SYS   Common    111621306       92      17,300 SH         SOLE           *          17,300
+CHURCH & DWIGHT INC          Common    171340102      214       3,100 SH         SOLE           *           3,100
+CLOROX CO/DE                 Common    189054109      278       4,400 SH         SOLE           *           4,400
+D R HORTON INC               Common    23331A109      172      14,400 SH         SOLE           *          14,400
+EASTMAN KODAK CO             Common    277461109      101      18,900 SH         SOLE           *          18,900
+ENERGYSOLUTIONS INC          Common    292756202      100      17,900 SH         SOLE           *          17,900
+FOMENTO ECONOMICO MEXICANO   Common    344419106      218       3,900 SH         SOLE           *           3,900
+FRONTIER COMMUNICATIONS CORP Common    35906A108      322      33,100 SH         SOLE           *          33,100
+HEARTLAND EXPRESS INC        Common    422347104      179      11,200 SH         SOLE           *          11,200
+INTEGRATED DEVICE TECH INC   Common    458118106       87      13,100 SH         SOLE           *          13,100
+INTERPUBLIC GROUP OF COS     Common    460690100      120      11,300 SH         SOLE           *          11,300
+INTL GAME TECHNOLOGY         Common    459902102      200      11,300 SH         SOLE           *          11,300
+JACOBS ENGINEERING GROUP INC Common    469814107      202       4,400 SH         SOLE           *           4,400
+LORILLARD INC                Common    544147101      304       3,700 SH         SOLE           *           3,700
+MAGELLAN HEALTH SERVICES INC Common    559079207      246       5,200 SH         SOLE           *           5,200
+MASTERCARD INC               Common    57636Q104      202         900 SH         SOLE           *             900
+MAXIMUS INC                  Common    577933104      413       6,300 SH         SOLE           *           6,300
+MICRON TECHNOLOGY INC        Common    595112103      131      16,300 SH         SOLE           *          16,300
+NATIONAL INSTRUMENTS CORP    Common    636518102      273       7,262 SH         SOLE           *           7,262
+NIKE INC                     Common    654106103      248       2,900 SH         SOLE           *           2,900
+NOVO NORDISK A/S             Common    670100205      203       1,800 SH         SOLE           *           1,800
+PARAMETRIC TECHNOLOGY CORP   Common    699173209      293      13,000 SH         SOLE           *          13,000
+REYNOLDS AMERICAN INC        Common    761713106      215       6,600 SH         SOLE           *           6,600
+ROBBINS & MYERS INC          Common    770196103      276       7,700 SH         SOLE           *           7,700
+ROCKWELL COLLINS INC         Common    774341101      425       7,300 SH         SOLE           *           7,300
+SAIC INC                     Common    78390X101      182      11,500 SH         SOLE           *          11,500
+SPDR S&P 500 ETF TRUST       Common    78462F103      252       2,000 SH         SOLE           *           2,000
+SRA INTERNATIONAL INC        Common    78464R105      237      11,600 SH         SOLE           *          11,600
+SUPERVALU INC                Common    868536103      157      16,300 SH         SOLE           *          16,300
+SYNOPSYS INC                 Common    871607107      221       8,200 SH         SOLE           *           8,200
+TAIWAN SEMICONDUCTOR MFG CO  Common    874039100      150      12,000 SH         SOLE           *          12,000
+TAKE-TWO INTERACTIVE SFTWR   Common    874054109      314      25,600 SH         SOLE           *          25,600
+TELECOM ITALIA SPA - NEW     Common    87927Y102      300      23,200 SH         SOLE           *          23,200
+TELEFONICA SA                Common    879382208      205       3,000 SH         SOLE           *           3,000
+TRIUMPH GROUP INC            Common    896818101      215       2,400 SH         SOLE           *           2,400
+UNION PACIFIC CORP           Common    907818108      259       2,800 SH         SOLE           *           2,800
+UNITED THERAPEUTICS CORP     Common    91307C102      247       3,900 SH         SOLE           *           3,900
+URS CORP                     Common    903236107      225       5,400 SH         SOLE           *           5,400
+US AIRWAYS GROUP INC         Common    90341W108      123      12,300 SH         SOLE           *          12,300
+VAIL RESORTS INC             Common    91879Q109      239       4,600 SH         SOLE           *           4,600
+VONAGE HOLDINGS CORP         Common    92886T201       89      39,600 SH         SOLE           *          39,600
+WABTEC CORP                  Common    929740108      222       4,200 SH         SOLE           *           4,200
+WASTE CONNECTIONS INC        Common    941053100      273       9,900 SH         SOLE           *           9,900
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,145 @@
+<SEC-DOCUMENT>0001479847-12-000006.txt : 20120516
+<SEC-HEADER>0001479847-12-000006.hdr.sgml : 20120516
+<ACCEPTANCE-DATETIME>20120515184246
+ACCESSION NUMBER:		0001479847-12-000006
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20120331
+FILED AS OF DATE:		20120516
+DATE AS OF CHANGE:		20120515
+EFFECTIVENESS DATE:		20120516
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Voleon Capital Management LP
+		CENTRAL INDEX KEY:			0001479847
+		IRS NUMBER:				262569235
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-13764
+		FILM NUMBER:		12846826
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2131 UNIVERSITY AVENUE
+		STREET 2:		SUITE 324
+		CITY:			BERKELEY
+		STATE:			CA
+		ZIP:			94704
+		BUSINESS PHONE:		(510) 704-9870
+
+	MAIL ADDRESS:	
+		STREET 1:		2131 UNIVERSITY AVENUE
+		STREET 2:		SUITE 324
+		CITY:			BERKELEY
+		STATE:			CA
+		ZIP:			94704
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>f13f2012-03.txt
+<DESCRIPTION>FORM 13F FOR MARCH 31, 2012
+<TEXT>
+                                  UNITED STATES
+                     SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: March 31, 2012
+
+Check here if Amendment |_|; Amendment Number:
+This Amendment (Check only one.): |_| is a restatement.
+                                  |_| adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Voleon Capital Management LP
+Address: 2131 University Avenue, Suite 324
+         Berkeley, CA 94704
+
+
+13F File Number: 028-13764
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:     Laarni P. DeGuzman
+Title:    CFO/Chief Compliance Officer
+Phone:    (510) 704-9870
+
+Signature, Place, and Date of Signing:
+
+/s/ LAARNI P. DEGUZMAN          Berkeley, CA             Date May 15, 2012
+-------------------------------------------------------------------------------
+
+Report Type (Check only one.):
+
+|X|   13F HOLDINGS REPORT.
+
+|_|   13F NOTICE.
+
+|_|   13F COMBINATION REPORT.
+
+List of Other Managers Reporting for this Manager:
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+I AM SIGNING THIS REPORT AS REQUIRED BY THE SECURITIES EXCHANGE ACT OF 1934.
+
+
+
+
+
+<PAGE>
+
+
+                          FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:           0
+
+Form 13F Information Table Entry Total:    0
+
+Form 13F Information Table Value Total:   $0 (thousands)
+
+List of Other Included Managers:
+
+ No.  13F File Number     Name
+
+NONE
+
+
+
+<Page>
+
+<TABLE>
+<CAPTION>
+                                                                  FORM 13F INFORMATION TABLE
+                                                           VALUE   SHARES/  SH/ PUT/ INVSTMT    OTHER           VOTING AUTHORITY
+        NAME OF ISSUER          TITLE OF CLASS    CUSIP   (x$1000) PRN AMT  PRN CALL DSCRETN   MANAGERS      SOLE    SHARED    NONE
+------------------------------ ---------------- --------- -------- -------- --- ---- ------- ------------  -------- -------- -------
+<S>                            <C>              <C>       <C>      <C>      <C> <C>  <C>     <C>           <C>      <C>      <C>
+No Reportable Holdings
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

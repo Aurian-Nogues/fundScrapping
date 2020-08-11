@@ -1,2 +1,0 @@
-#exclude donwloaded data files
-Data/*
